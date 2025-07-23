@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=24&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Soniya+Kambli;Full+Stack+Developer;C%2B%2B+Programmer;AI+Enthusiast;Tech+Explorer+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=white&size=24&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Soniya+Kambli;Full+Stack+Developer;C%2B%2B+Programmer;AI+Enthusiast;Tech+Explorer+%F0%9F%92%BB" />
 </p>
 
 
