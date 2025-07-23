@@ -45,7 +45,7 @@
 ### 🧰 Tools & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,sql,react,js,html,css,,nodejs,mongodb,git,github,vscode,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,react,js,html,css,nodejs,mongodb,git,github,vscode,python,cpp" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/soniya-vinaykumar-kambli-0309b" target="_blank">
+  <a href="www.linkedin.com/in/soniya-vinaykumar-kambli-0309b4237" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kamblisoniya@gmail.com" target="_blank">
