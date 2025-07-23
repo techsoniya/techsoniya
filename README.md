@@ -1,7 +1,9 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+I'm+Soniya+Kambli+👋;Full+Stack+Developer+%7C+C%2B%2B+Programmer;AI+Enthusiast+%7C+Web+Tech+Lover;Let's+Build+Cool+Things+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=24&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Soniya+Kambli;Full+Stack+Developer;C%2B%2B+Programmer;AI+Enthusiast;Tech+Explorer+%F0%9F%92%BB" />
 </p>
+
 
 ---
 
@@ -32,10 +34,18 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Streak + Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techsoniya&theme=discord&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=techsoniya&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=techsoniya&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&width=1000&lines=Hi+There+👋,+I'm+Soniya+Kambli!;Full+Stack+Developer+💻;AI+%26+Web+Tech+Explorer+🚀;Let's+Build+Something+Awesome+Together!" />
 </p>
 
 ---
@@ -43,7 +53,7 @@
 ### 🧰 Tools & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,sql,react,js,html,css,,nodejs,mongodb,git,github,vscode,python,cpp" />
 </p>
 
 ---
@@ -52,8 +62,8 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/soniyakambli" target="_blank"><img src="https://img.shields.io/badge/-Soniya%20Kambli-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:techsoniya@gmail.com"><img src="https://img.shields.io/badge/-techsoniya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/soniya-vinaykumar-kambli-0309b" target="_blank"><img src="https://img.shields.io/badge/-Soniya%20Kambli-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:kamblisoniya@gmail.com"><img src="https://img.shields.io/badge/-kamblisoniya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/techsoniya"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
