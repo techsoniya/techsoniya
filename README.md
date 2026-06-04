@@ -64,45 +64,78 @@ motto:
 ✨ Focus on **data quality, cost optimization & observability**
 
 ---
-
 # 🧠 Core Expertise
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,gcp,azure,git,github,vscode"/>
 
 </p>
 
-### 🔹 Data Engineering
+### 🔹 Data Engineering & Architecture
 
-`ETL` • `ELT` • `Data Warehousing` • `Lakehouse`
-`Data Modeling`
-`CDC`
-`SCD Type 2`
-`Delta Tables`
-`Medallion Architecture`
-`Data Quality`
-`Orchestration`
+`ETL / ELT` • `Data Warehousing` • `Lakehouse Architecture`
+`Data Modeling` • `CDC` • `SCD Type 2`
+`Delta Tables` • `Medallion Architecture`
+`Data Quality` • `Pipeline Orchestration`
+`Data Observability`
 
-### 🔹 Analytics
+---
 
-`Power BI`
+### 🔹 Big Data & Processing
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square"/>
+
+`Distributed Processing`
+`Batch & Incremental Pipelines`
+
+---
+
+### 🔹 Cloud & Modern Data Platforms
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake"/>
+
+`Cloud Data Engineering`
+`Scalable Analytics`
+`Data Platform Design`
+
+---
+
+### 🔹 Analytics & BI
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
 `DAX`
 `Power Query`
-`Semantic Models`
-`Reporting`
 `KPI Engineering`
+`Dashboard Optimization`
+`Semantic Layer Design`
+`Business Intelligence`
 
-### 🔹 Cloud & Platforms
+---
 
-`Snowflake`
-`Microsoft Fabric`
+### 🔹 Enterprise Data Ecosystem
+
 `SQL Server`
 `SSIS`
 `SSRS`
-`PySpark`
-`Lakehouse`
-
+`Snowpipe`
+`Streams`
+`Tasks`
+`Stored Procedures`
+`Reporting`
 ---
 
 # 🏗️ Featured Projects
