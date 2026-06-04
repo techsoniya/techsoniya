@@ -230,11 +230,21 @@ Customer intelligence platform focused on:
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techsoniya&theme=tokyo-night"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techsoniya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=techsoniya&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techsoniya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
