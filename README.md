@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Soniya+Kambli;Data+Engineer+at+Endava;Building+Scalable+Data+Platforms;Turning+Raw+Data+Into+Business+Intelligence;Cloud+%7C+Warehousing+%7C+Analytics+%7C+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Soniya+Kambli;Data+Engineer;Building+Scalable+Data+Platforms;Turning+Raw+Data+Into+Business+Intelligence;Cloud+%7C+Warehousing+%7C+Analytics+%7C+AI" />
 
 </p>
 
