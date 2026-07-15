@@ -1,6 +1,6 @@
-
+<p align="center">
 # 👋 Hi, I'm Soniya Kambli
-
+</p>
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=1200&lines=Data+Engineer+%40+Endava;Databricks+Certified+Data+Engineer;Modern+Data+Platform+Engineer;Snowflake+%7C+Databricks+%7C+AWS+%7C+Fabric;Building+Scalable+Lakehouse+Architectures" />
