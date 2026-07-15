@@ -10,11 +10,21 @@
 
 </p>
 
+<h3 align="center">
+Data Engineer • Data Warehouse Architect • Analytics Engineer • Cloud Data Enthusiast
+</h3>
+
 <p align="center">
 
-Modern Data Platform Engineer • Lakehouse Architect • Analytics Engineer
+<img src="https://komarev.com/ghpvc/?username=techsoniya&style=for-the-badge&color=0E75B6"/>
+
+<img src="https://img.shields.io/github/followers/techsoniya?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/techsoniya?style=for-the-badge"/>
 
 </p>
+
+---
 
 ---
 
