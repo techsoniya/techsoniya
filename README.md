@@ -26,178 +26,249 @@ Data Engineer • Data Warehouse Architect • Analytics Engineer • Cloud Data
 
 ---
 
----
 
-# 🚀 About Me
+# 👩🏻‍💻 About Me
 
 ```yaml
 name: Soniya Vinaykumar Kambli
 role: Data Engineer @ Endava
-location: Karnataka, India
+location: Karnataka, India 🇮🇳
 
-specialization:
+focus:
   - Data Engineering
-  - Lakehouse Architecture
-  - Cloud Analytics
-  - Data Warehousing
+  - Cloud Data Platforms
   - Analytics Engineering
+  - Data Warehousing
+  - Data Architecture
 
 currently_building:
-  - Retail360 on Snowflake
-  - Databricks Medallion Lakehouse
-  - AWS Lakehouse with Iceberg
+  - Retail 360 Customer Intelligence Platform
+  - AWS Data Engineering Skills
+  - AI + Data Engineering Integrations
 
-motto: "From Raw Data → Trusted Insights"
-```
-
-# 🏅 Certifications
-
-- ✅ Databricks Certified Data Engineer Associate
-- ✅ Databricks Certified Data Analyst Associate
-- ✅ Microsoft Certified Fabric Analytics Engineer (DP-600)
-- ✅ Microsoft Certified Fabric Data Engineer (DP-700)
-
-# ☁️ Technology Stack
-
-## Languages
-Python • SQL • PySpark
-
-## Cloud
-AWS • Azure • Microsoft Fabric
-
-## Warehousing
-Snowflake • Databricks SQL
-
-## Lakehouse
-Delta Lake • Apache Iceberg • Unity Catalog
-
-## Data Engineering
-dbt • Glue • Trino • Spark SQL • CDC • SCD Type 2 • Medallion Architecture
-
-## Storage
-Amazon S3 • Snowflake Internal Stages • Parquet • JSON • CSV
-
-## BI
-Power BI • DAX • Power Query
-
-## Dev Tools
-Git • GitHub • VS Code • DBeaver
-
-# 🏗 Featured Projects
-
-## ❄️ Retail360 – Enterprise Snowflake Platform
-
-Features
-
-- Snowpipe
-- Streams & Tasks
-- CDC
-- SCD Type 2
-- Raw → Silver → Gold
-- Reporting Marts
-- Cost Monitoring
-
-Architecture
-
-```text
-CSV / JSON / Parquet
-        │
-        ▼
-Internal Stage
-        │
-    Snowpipe
-        │
-        ▼
- RAW → SILVER → GOLD
-        │
-        ▼
- Power BI
+motto:
+  "From ingestion → transformation → insight"
 ```
 
 ---
 
-## 🧱 Databricks Medallion Lakehouse
+## 🚀 What I Do
 
-- Bronze / Silver / Gold
-- Delta Tables
-- Unity Catalog
-- PySpark
-- SQL Warehouse
-- Analytics
+✨ Design and build scalable production-grade **Data Platforms**
+
+✨ Build **ETL / ELT pipelines** from ingestion to reporting
+
+✨ Create **warehouse architectures** and dimensional models
+
+✨ Develop reliable **reporting ecosystems and KPI dashboards**
+
+✨ Focus on **data quality, cost optimization & observability**
+
+---
+# 🧠 Core Expertise
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,gcp,azure,git,github,vscode"/>
+
+</p>
+
+### 🔹 Data Engineering & Architecture
+
+`ETL / ELT` • `Data Warehousing` • `Lakehouse Architecture`
+`Data Modeling` • `CDC` • `SCD Type 2`
+`Delta Tables` • `Medallion Architecture`
+`Data Quality` • `Pipeline Orchestration`
+`Data Observability`
 
 ---
 
-## ☁️ AWS Modern Lakehouse
+### 🔹 Big Data & Processing
 
-Technologies
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
-- Amazon S3
-- AWS Glue
-- IAM
-- Apache Iceberg
-- Trino
-- dbt
-- PySpark
-- Apache Polaris
-- DBeaver
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 
-Architecture
+<img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square"/>
 
-```text
-S3
- │
- ▼
-Glue Catalog
- │
- ▼
-Apache Iceberg
- │
- ▼
-PySpark + dbt
- │
- ▼
-Trino
- │
- ▼
-Power BI
-```
-
-# 🧠 Core Skills
-
-- ETL / ELT
-- Data Modeling
-- Data Warehousing
-- Lakehouse Architecture
-- CDC Pipelines
-- SCD Type 2
-- Incremental Processing
-- Batch Processing
-- Data Quality
-- Data Governance
-- Business Intelligence
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=techsoniya&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=techsoniya&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techsoniya&layout=compact&theme=tokyonight)
-
-# 🌱 Currently Learning
-
-- Apache Airflow
-- Terraform
-- Apache Kafka
-- AI for Data Engineering
-- OpenMetadata
-
-# 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/soniya-vinaykumar-kambli-0309b4237
-- GitHub: https://github.com/techsoniya
-- LeetCode: https://leetcode.com/u/techsoniya/
+`Distributed Processing`
+`Batch & Incremental Pipelines`
 
 ---
 
-> Building scalable, reliable, and modern data platforms across Snowflake, Databricks, AWS, and Microsoft Fabric.
+### 🔹 Cloud & Modern Data Platforms
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake"/>
+
+`Cloud Data Engineering`
+`Scalable Analytics`
+`Data Platform Design`
+
+---
+
+### 🔹 Analytics & BI
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+`DAX`
+`Power Query`
+`KPI Engineering`
+`Dashboard Optimization`
+`Semantic Layer Design`
+`Business Intelligence`
+
+---
+
+### 🔹 Enterprise Data Ecosystem
+
+`SQL Server`
+`SSIS`
+`SSRS`
+`Snowpipe`
+`Streams`
+`Tasks`
+`Stored Procedures`
+`Reporting`
+---
+
+# 🏗️ Featured Projects
+
+## 🚖 Uber Ride Analytics Platform
+
+Built a complete ride analytics ecosystem featuring:
+
+✔ Historical + Incremental Ingestion
+✔ CSV / JSON / Parquet / Excel Support
+✔ Bronze → Silver → Core Architecture
+✔ Audit + Reject Layers
+✔ Fact-Dimension Modeling
+✔ KPI Dashboarding
+
+**Stack:**
+`SQL Server` `Python` `Power BI`
+
+---
+
+## 💊 NCDP Insurance Tracking Pipeline
+
+Production-grade insurance movement and reporting system:
+
+✔ Validation Pipelines
+✔ Claims Tracking
+✔ Reporting Automation
+✔ Reliable Data Delivery
+
+---
+
+## ❄️ Enterprise Snowflake Platform
+
+✔ Snowpipe
+✔ Internal Stages
+✔ Streams & Tasks
+✔ CDC + SCD2
+✔ Cost Monitoring
+✔ Reporting Marts
+
+---
+
+## 🏢 Retail 360 (Current)
+
+Customer intelligence platform focused on:
+
+✔ Customer PII
+✔ Inventory Analytics
+✔ Data Quality
+✔ Business Insights
+✔ Scalability
+
+---
+
+# ⚙️ Data Stack
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,postgres,aws,azure,docker,git,github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SSIS-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SSRS-EA4335?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=techsoniya&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=techsoniya&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Snowflake Certified
+
+🏅 Databricks Certified
+
+🏅 Building Production Data Solutions
+
+🏅 Exploring AI + Data Platforms
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/soniya-vinaykumar-kambli-0309b4237">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kamblisoniya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/techsoniya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/techsoniya/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ Building data systems that scale, perform, and create business value.
+
+</p>
