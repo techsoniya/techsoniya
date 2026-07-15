@@ -1,5 +1,4 @@
-<p align="center">
-# 👋 Hi, I'm Soniya Kambli
+<p align="center"> 👋 Hi, I'm Soniya Kambli
 </p>
 <p align="center">
 
