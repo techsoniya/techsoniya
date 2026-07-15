@@ -10,14 +10,6 @@
 
 </p>
 
-<p align="center">
-
-<a href="https://ascii-profile.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Live_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
 
 <h3 align="center">
 Data Engineer • Data Warehouse Architect • Analytics Engineer • Cloud Data Enthusiast
